@@ -5,8 +5,6 @@ Features
 Query refinement using Meta LLaMa 3B from Hugging Face.
 Context retrieval using Pinecone vector search.
 User-friendly interface with Streamlit.
-Demo
-Provide a demo link if applicable or instructions for using a local demo.
 
 Prerequisites
 Before running the project, ensure you have the following installed:
